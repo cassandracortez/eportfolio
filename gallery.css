@@ -88,3 +88,12 @@ div.gallery {
 .section {
     margin-top: 50px;
 }
+
+.gallery {
+    margin-left: -400px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
